@@ -1,0 +1,15 @@
+C:\ProjetosVscode\POO-Csharp\bin\Debug\net7.0\POO-Csharp.exe
+C:\ProjetosVscode\POO-Csharp\bin\Debug\net7.0\POO-Csharp.deps.json
+C:\ProjetosVscode\POO-Csharp\bin\Debug\net7.0\POO-Csharp.runtimeconfig.json
+C:\ProjetosVscode\POO-Csharp\bin\Debug\net7.0\POO-Csharp.dll
+C:\ProjetosVscode\POO-Csharp\bin\Debug\net7.0\POO-Csharp.pdb
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.csproj.AssemblyReference.cache
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.AssemblyInfoInputs.cache
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.AssemblyInfo.cs
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.csproj.CoreCompileInputs.cache
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.dll
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\refint\POO-Csharp.dll
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.pdb
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\POO-Csharp.genruntimeconfig.cache
+C:\ProjetosVscode\POO-Csharp\obj\Debug\net7.0\ref\POO-Csharp.dll
